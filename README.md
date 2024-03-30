@@ -1,4 +1,4 @@
-# Android Project 5 - *Name of App Here*
+# Android Project 5 - Jojo Bear FitBit
 
 Submitted by: **Your Name Here**
 
